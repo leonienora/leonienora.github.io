@@ -1,4 +1,4 @@
 vettehap
 ========
 
-Website voor vettehap.com
+Website voor http://vettehap.com
